@@ -1,0 +1,14 @@
+Student Records:
+-----------------------------
+Enroll No: 101
+Name: John Doe
+Address: 1234 Elm Street
+Mobile No: 1234567890
+Email ID: johndoe@example.com
+-----------------------------
+Enroll No: 102
+Name: Jane Smith
+Address: 5678 Maple Avenue
+Mobile No: 0987654321
+Email ID: janesmith@example.com
+-----------------------------
